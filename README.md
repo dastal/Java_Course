@@ -13,3 +13,21 @@ Tutorial I completed to get used to Java programming language and to continue my
 - Enter Project Name
 - Choose Project Directory
 - Click "Finish"
+
+**First Java Program**
+- In the src folder, right click and create a new package
+- On that package right click and create new class
+- Isert:
+
+```
+public class HelloWorld {
+	public static void main(String [] args) {
+		System.out.println("Hello World!");
+	}
+}
+```
+- save and run
+- in the console there should appear the Sentence "Hello Wolrd!"
+
+**Topics:** Files
+1. Hello World: hello_world.java
