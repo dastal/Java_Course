@@ -31,3 +31,5 @@ public class HelloWorld {
 
 **Topics:** Files
 1. Hello World: hello_world.java
+2. Shape: shape.java
+3. Varibales: variables.java
