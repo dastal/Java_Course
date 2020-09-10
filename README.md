@@ -30,6 +30,6 @@ public class HelloWorld {
 - in the console there should appear the Sentence "Hello Wolrd!"
 
 **Topics:** Files
-1. Hello World: hello_world.java
-2. Shape: shape.java
-3. Varibales: variables.java
+1. Hello World: HelloWorld.java
+2. Shape: Shape.java
+3. Varibales: Variables.java
