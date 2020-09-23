@@ -34,5 +34,11 @@ public class HelloWorld {
 2. Shape: Shape.java
 3. Varibales: Variables.java
 4. Data Types: DataTypes.java
-5. Working With Math and Numbers: Numbers.java
-6. Getting User Input: user_input.java
+5. Working With Strings: Strings.java
+6. Working With Math and Numbers: Numbers.java
+7. Getting User Input: user_input.java
+8. Building a Calculator: BasicCalculator.java
+9. Mad Libs Game: MadLibs.java
+10. Arrays: Arrays.java
+11. Methods: Methods.java
+12. Return Statements: ReturnStatements.java
