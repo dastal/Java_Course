@@ -2,7 +2,7 @@ package App;
 
 import java.util.Scanner;
 
-public class Better_Calculator {
+public class BetterCalculator {
 	public static void Calculator(String [] args) {
 		
 		Scanner keyboardInput = new Scanner(System.in);
