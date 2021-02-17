@@ -43,3 +43,9 @@ public class HelloWorld {
 11. Methods: Methods.java
 12. Return Statements: ReturnStatements.java
 13. If Statements: IfStatements.java
+14. Improved Calculator: BetterCalculator.java
+15. Switch Statements: SwitchStatements.java
+16. While Loops: WhileLoops.java
+17. Guessing Game: GuessingGame.java
+18. For Loops: ForLoops.java
+19. Exponent Method: ExponentMehtod.java
