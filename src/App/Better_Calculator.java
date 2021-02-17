@@ -30,6 +30,6 @@ public class Better_Calculator {
 		}
 		else {
 			System.out.println( "Invalid Operator!" );
-		};
+		}
 	}
 }
