@@ -49,3 +49,5 @@ public class HelloWorld {
 17. Guessing Game: GuessingGame.java
 18. For Loops: ForLoops.java
 19. Exponent Method: ExponentMehtod.java
+20. Nested Loops & 2D Arrays: NestedLoopsAnd2DArrays.java
+21. Catch & Exceptions: CatchAndExceptions.java
