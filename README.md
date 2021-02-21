@@ -18,7 +18,7 @@ Tutorial I completed to get used to Java programming language and to continue my
 - On that package right click and create new class
 - Isert:
 
-```
+```java
 public class HelloWorld {
 	public static void main(String [] args) {
 		System.out.println("Hello World!");
