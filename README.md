@@ -52,3 +52,4 @@ public class HelloWorld {
 21. Comments: Comments.java
 22. Catch & Exceptions: CatchAndExceptions.java
 23. Classes & Objects Part 1: ClassesAndObjectsPart1.java
+24. Classes & Objects Part 2: ClassesAndObjectsPart2.java
