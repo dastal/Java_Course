@@ -56,3 +56,4 @@ public class HelloWorld {
 25. Constructors: Constructors.java
 26. Building a Multiple Choice Quiz: MultipleChoiceQuiz.java
 27. Object and Instance Mehtods: ObjectAndInstanceMethods.java
+28. Getters and Setters: GettersAndSetters.java
