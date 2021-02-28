@@ -1,7 +1,7 @@
 package App;
 
 public class StaticClassAttributes {
-	public static void main(String [] args) {
+	public static void staticClassAttributes(String [] args) {
 		
 		Song holiday = new Song("Holiday", "Green Day", 200);
 		Song americanIdiot =  new Song("American Idiot", "Green Day", 168);
