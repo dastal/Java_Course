@@ -58,3 +58,4 @@ public class HelloWorld {
 27. Object and Instance Mehtods: ObjectAndInstanceMethods.java
 28. Getters and Setters: GettersAndSetters.java
 29. Static Class Attributes: staticClassAttributes.java
+30. Static Class Mehtods: staticClassMethods.java
