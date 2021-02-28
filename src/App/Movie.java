@@ -1,15 +1,15 @@
 package App;
 
 public class Movie {
-	String title;
-	String director;
 	// Making rating private means that the rating can only be accessed by the movie class -> setter
+	private String title;
+	private String director;
 	private String rating;
 	
 	public Movie(String title, String director, String rating) {
-		this.title = title;
-		this.director = director;
-		this.rating = rating;
+		this.setTitle(title);
+		this.setDirector(director);
+		this.setRating(rating);
 	}
 	
 	public void setTitle(String title) {
