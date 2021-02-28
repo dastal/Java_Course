@@ -57,3 +57,4 @@ public class HelloWorld {
 26. Building a Multiple Choice Quiz: MultipleChoiceQuiz.java
 27. Object and Instance Mehtods: ObjectAndInstanceMethods.java
 28. Getters and Setters: GettersAndSetters.java
+29. Static Class Attributes: staticClassAttributes.java
