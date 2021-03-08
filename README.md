@@ -62,3 +62,5 @@ public class HelloWorld {
 31. Inheritance: Inheritance.java
 32. Interface Inheritance: InterfaceInheritnace.java
 33. Access Modifiers: AccessModifiers.java
+34. Main Mehtods & Non Static Methods: MainMethodsAndNonStaticMethods.java
+35. Imports & Packages: ImportsAndPackages.java
