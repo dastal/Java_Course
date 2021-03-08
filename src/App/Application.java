@@ -1,15 +1,10 @@
 package App;
 
-import java.util.Scanner;
 
 public class Application {
 	public static void main(String [] args) {
 		
-		Book2 book1 = new Book2("Harry Potter", "JK Rowling", 500, "English");
-				
-		Book2 book2 = new Book2("The Lord of the Rings", "JRR Tolkien", 1000, "English");
+		System.out.println("Welcome to the Java Couse!");
 		
-		System.out.println(book1.title);
-		System.out.println(book2.pages);
 	}
 }
